@@ -1,0 +1,14 @@
+                                                                              Project Proposal
+
+Goal:
+Building a model to predict car price by importing large data from a car sales website and available csv data sets online. By using statistics and probability analysis with linear regression and converting non-numeric values such as color of car to 0 or 1.
+
+Data Description:
+The datasets will be obtained by applying web scraping from a car sales website which is https://carvago.com/ , we also might add data sets from Kaggle as well.
+
+Tools:
+•	Jupyter Notebook
+•	Statsmodels.api 
+•	SQLAlchemy
+•	Seaborn
+•	Statsmodels.formula.api
