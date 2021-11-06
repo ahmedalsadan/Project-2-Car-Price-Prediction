@@ -1,7 +1,7 @@
 # Project Proposal
 ## Goal
 Building a model to predict car price by importing large 
-data from carvago.com.While using statistics and probability analysis with 
+data from carvago.com. While using statistics and probability analysis with 
 linear regression and converting non-numeric values such
 as fuel type of car to dummy variables.
 ## Data Description
