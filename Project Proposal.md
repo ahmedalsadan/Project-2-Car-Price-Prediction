@@ -1,4 +1,5 @@
-# Project Proposal
+# Car Price Prediction
+
 ## Goal
 Building a model to predict car price by importing large 
 data from carvago.com. While using statistics and probability analysis with 
